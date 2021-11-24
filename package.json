@@ -6,7 +6,24 @@
     "jest": "^27.3.1"
   },
   "scripts": {
-      "test": "jest"
-    }
-  
+    "test": "jest"
+  },
+  "name": "teamprofile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colawrr/teamprofile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colawrr/teamprofile-generator/issues"
+  },
+  "homepage": "https://github.com/colawrr/teamprofile-generator#readme"
 }
