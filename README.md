@@ -1,4 +1,4 @@
-# Team Profile Generator
+# Team Profile Generator 6000
   ## Licensing:
   [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
   ## Table of Contents 
@@ -23,4 +23,4 @@
   ## Additional Info:
   - Github: [Colawrr](https://github.com/Colawrr)
   - Email: Connor.lawrence96@gmail.com 
-  - Video: [Click Here](Professional-README/video/module 9 screencast.mp4)
+  - Video: https://drive.google.com/file/d/1tWZNaLaSKDgV-UohblVVEdnwex9nPzDj/view?usp=sharing
