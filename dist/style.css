@@ -1,0 +1,50 @@
+#navbar {
+    background-color: rgb(123, 123, 167);
+    color: white;
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+
+.card-header {
+    background-color: rgb(123, 123, 167);
+    color: white;
+}
+
+.card-body {
+    background-color: white;
+    color: rgb(123, 123, 167);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+    box-shadow: lightgray;
+}
+
+.card-header h3 {
+    font-size: 30px;
+}
+
+.card-header h4 {
+    font-style: italic;
+}
+
+.card-body {
+    background-color: rgb(185, 205, 211);
+    text-shadow:lightgray;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.card-header:hover {
+    background-color: rgb(212, 228, 233);
+    text-shadow:lightgray;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
